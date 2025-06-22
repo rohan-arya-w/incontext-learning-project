@@ -5,3 +5,9 @@ scikit-learn
 matplotlib
 pandas
 pyyaml
+
+pandas
+scikit-learn
+ollama
+matplotlib
+numpy
